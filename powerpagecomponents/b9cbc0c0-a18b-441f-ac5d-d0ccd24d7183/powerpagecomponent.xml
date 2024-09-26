@@ -1,0 +1,11 @@
+<powerpagecomponent powerpagecomponentid="b9cbc0c0-a18b-441f-ac5d-d0ccd24d7183">
+  <content>{"description":"Denies use of the portal to minors. By default, it is set to false.","value":"false"}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Authentication/Registration/DenyMinors</name>
+  <powerpagecomponenttype>9</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d5fd8e4f-c57a-40f8-adbd-283f71214cce</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

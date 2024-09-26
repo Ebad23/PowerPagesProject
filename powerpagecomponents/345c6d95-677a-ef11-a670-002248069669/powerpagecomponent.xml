@@ -1,0 +1,11 @@
+<powerpagecomponent powerpagecomponentid="345c6d95-677a-ef11-a670-002248069669">
+  <content>{"botschemaname":"crc76_46515dc7-09d5-48c4-8f24-11fc39689a52","configjson":"{\"skillConfigViewName\":\"Azure Blob Attachments bot Answers\"}"}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Bot Consumer</name>
+  <powerpagecomponenttype>27</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d5fd8e4f-c57a-40f8-adbd-283f71214cce</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

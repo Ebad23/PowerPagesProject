@@ -1,0 +1,62 @@
+<powerpagecomponent powerpagecomponentid="aade1bd0-947a-ef11-a670-002248069669">
+  <content>{
+  "filecontent": null,
+  "formname": "Orders main form",
+  "entityname": "crc76_table1",
+  "referenceentityshowreadonlyform": false,
+  "referencequerystringisprimarykey": true,
+  "populatereferenceentitylookupfield": false,
+  "setentityreference": false,
+  "geolocation_displaymap": false,
+  "geolocation_enabled": false,
+  "attachfilerestrictaccept": false,
+  "attachfilerequired": false,
+  "attachfileallowmultiple": true,
+  "attachfile": true,
+  "portaluserlookupattributeisactivityparty": false,
+  "associatecurrentportaluser": false,
+  "redirecturlappendentityidquerystring": false,
+  "appendquerystring": false,
+  "hideformonsuccess": false,
+  "onsuccess": 756150000,
+  "validationsummarylinksenabled": true,
+  "forceallfieldsrequired": false,
+  "recommendedfieldsrequired": false,
+  "showunsupportedfields": false,
+  "showownerfields": false,
+  "tooltipenabled": false,
+  "renderwebresourcesinline": false,
+  "autogeneratesteps": false,
+  "showcaptchaforauthenticatedusers": false,
+  "captcharequired": false,
+  "recordsourceallowcreateonnull": false,
+  "entitypermissionsenabled": true,
+  "mode": 100000000,
+  "geolocation_maptype": 756150000,
+  "entityFormMetadatas": [
+    "26b43d39-557b-ef11-a670-002248069669"
+  ],
+  "lcid": 1033,
+  "attachfilemaxsize": null,
+  "entitysourcetype": null,
+  "recordidquerystringparametername": null,
+  "redirecturl": null,
+  "redirectwebpage": null,
+  "copy": "undefined",
+  "attachfilestoragelocation": 756150000,
+  "attachfilesaveoption": 756150000,
+  "successmessage": "[{\"LCID\":1033,\"Value\":\"\"}]",
+  "maximumnooffiles": 5,
+  "attachfileacceptextensions": null,
+  "attachfileaccept": "*/*",
+  "attachfilelabel": "[{\"LCID\":1033,\"Value\":\"\"}]"
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>OrdersForm</name>
+  <powerpagecomponenttype>15</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d5fd8e4f-c57a-40f8-adbd-283f71214cce</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

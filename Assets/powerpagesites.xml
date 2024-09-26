@@ -1,0 +1,11 @@
+<powerpagesites>
+  <powerpagesite powerpagesiteid="d5fd8e4f-c57a-40f8-adbd-283f71214cce">
+    <content>{"defaultlanguage":"f524eca3-5d52-457d-aa93-fc0aaf998f1f","footerwebtemplateid":"a96c8dd5-498a-4c5d-8af6-ca109a4cabdd","headerwebtemplateid":"7f806e40-e5df-4642-adde-81357d188944","website_language":1033,"defaultbotconsumerid":"345c6d95-677a-ef11-a670-002248069669"}</content>
+    <datamodelversion>2.0</datamodelversion>
+    <iscustomizable>1</iscustomizable>
+    <name>Azure Blob Attachments - ppTestAzureBlob</name>
+    <primarydomainname>ppTestAzureBlob.powerappsportals.com</primarydomainname>
+    <statecode>0</statecode>
+    <statuscode>1</statuscode>
+  </powerpagesite>
+</powerpagesites>

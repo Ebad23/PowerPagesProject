@@ -1,0 +1,22 @@
+<powerpagecomponent powerpagecomponentid="e4ae9491-74b0-cac2-27f2-b01178940b49">
+  <content>{
+  "displayorder": 6,
+  "weblinksetid": "3ab7aecf-d705-4acc-9794-61f105be6e6f",
+  "pageid": "f6295f3f-e70b-0bf6-647f-e5c76d00c7f5",
+  "publishingstateid": "0c6d3621-61b7-44f6-b5f8-8de1c9138d1f",
+  "displaypagevalidation": false,
+  "displayimageonly": false,
+  "displaypagechildlinks": false,
+  "openinnewwindow": false,
+  "robotsfollowlink": true,
+  "copy": "undefined"
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Testing</name>
+  <powerpagecomponenttype>5</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d5fd8e4f-c57a-40f8-adbd-283f71214cce</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

@@ -1,0 +1,26 @@
+<powerpagecomponent powerpagecomponentid="6bb8392f-6f7a-ef11-a670-002248069669">
+  <content>{
+   "scope": 756150000,
+   "entitylogicalname": "crc76_media",
+   "entityname": "MediaFormPermission",
+   "appendto": false,
+   "append": false,
+   "delete": true,
+   "create": true,
+   "write": false,
+   "read": true,
+   "adx_entitypermission_webrole": [
+      "9ba79ed6-27fa-4837-adfb-9969de5001a6",
+      "825c0986-7a7d-45ba-8359-d8679fd784d3",
+      "24b11a51-049e-46a7-842f-c7c2d0a3e4d7"
+   ]
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>MediaFormPermission</name>
+  <powerpagecomponenttype>18</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d5fd8e4f-c57a-40f8-adbd-283f71214cce</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

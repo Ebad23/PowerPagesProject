@@ -1,0 +1,22 @@
+<powerpagecomponent powerpagecomponentid="177eac9e-d44c-0c55-c581-40add33c8e99">
+  <content>{
+  "displayorder": 7,
+  "weblinksetid": "3ab7aecf-d705-4acc-9794-61f105be6e6f",
+  "pageid": "3c42a7d1-7463-199d-c560-ce903f376d0c",
+  "publishingstateid": "0c6d3621-61b7-44f6-b5f8-8de1c9138d1f",
+  "displaypagevalidation": false,
+  "displayimageonly": false,
+  "displaypagechildlinks": false,
+  "openinnewwindow": false,
+  "robotsfollowlink": true,
+  "copy": "undefined"
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>OrderPage</name>
+  <powerpagecomponenttype>5</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d5fd8e4f-c57a-40f8-adbd-283f71214cce</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

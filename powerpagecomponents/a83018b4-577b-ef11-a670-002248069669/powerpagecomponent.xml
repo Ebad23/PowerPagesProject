@@ -1,0 +1,27 @@
+<powerpagecomponent powerpagecomponentid="a83018b4-577b-ef11-a670-002248069669">
+  <content>{
+   "parentrelationship": "crc76_table1_Annotations",
+   "scope": 756150003,
+   "entitylogicalname": "annotation",
+   "entityname": "Notes",
+   "appendto": true,
+   "append": true,
+   "delete": true,
+   "create": true,
+   "write": true,
+   "read": true,
+   "parententitypermission": "5eeaa07a-577b-ef11-a670-002248069669",
+   "adx_entitypermission_webrole": [
+      "9ba79ed6-27fa-4837-adfb-9969de5001a6",
+      "825c0986-7a7d-45ba-8359-d8679fd784d3"
+   ]
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Notes</name>
+  <powerpagecomponenttype>18</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d5fd8e4f-c57a-40f8-adbd-283f71214cce</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

@@ -1,0 +1,29 @@
+<powerpagecomponent powerpagecomponentid="bd77b288-ae23-8de1-4798-ab62b9f28c05">
+  <content>{
+  "displayorder": 5,
+  "customcss": "",
+  "customjavascript": "",
+  "pagetemplateid": "ce6d64af-4890-4e4d-9c9e-70a57eb48f6b",
+  "parentpageid": "370678f9-882c-4376-9ec6-aeb01facd931",
+  "partialurl": "TestAzureBlob",
+  "isroot": true,
+  "title": "TestAzureBlob",
+  "summary": "&lt;p&gt;This is a sample landing page designed to be a starting point for your website&lt;/p&gt;",
+  "copy": "",
+  "publishingstateid": "0c6d3621-61b7-44f6-b5f8-8de1c9138d1f",
+  "enablerating": false,
+  "enabletracking": false,
+  "excludefromsearch": false,
+  "hiddenfromsitemap": true,
+  "sharedpageconfiguration": false
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>TestAzureBlob</name>
+  <powerpagecomponenttype>2</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d5fd8e4f-c57a-40f8-adbd-283f71214cce</powerpagesiteid>
+  </powerpagesiteid>
+  <searchcontent>TestAzureBlobTestAzureBlob</searchcontent>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

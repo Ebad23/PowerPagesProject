@@ -1,0 +1,42 @@
+<powerpagecomponent powerpagecomponentid="cf182238-a064-484a-9096-09f56dafb661">
+  <content>{
+  "filecontent": null,
+  "lcid": 1033,
+  "entityname": "crc76_table1",
+  "formname": "Orders main form",
+  "mode": 100000000,
+  "onsuccess": 756150000,
+  "hideformonsuccess": true,
+  "redirectwebpage": null,
+  "redirecturl": null,
+  "captcharequired": false,
+  "showcaptchaforauthenticatedusers": false,
+  "entitypermissionsenabled": true,
+  "attachfilestoragelocation": 756150001,
+  "attachfilemaxsize": null,
+  "maximumnooffiles": 5,
+  "entitysourcetype": null,
+  "recordidquerystringparametername": null,
+  "copy": "undefined",
+  "geolocation_maptype": 756150000,
+  "attachfile": true,
+  "attachfilelabel": "[{\"LCID\":1033,\"Value\":\"Upload brand shipping\"}]",
+  "attachfilesaveoption": 756150000,
+  "attachfilerestrictaccept": false,
+  "entityFormMetadatas": [],
+  "successmessage": "[{\"LCID\":1033,\"Value\":\"\"}]",
+  "attachfileallowmultiple": false,
+  "attachfileacceptextensions": null,
+  "attachfileaccept": "*/*",
+  "containername": "powerpagescontainer",
+  "storageaccountname": "testpowerpagescontainer"
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Media main form</name>
+  <powerpagecomponenttype>15</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d5fd8e4f-c57a-40f8-adbd-283f71214cce</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>
