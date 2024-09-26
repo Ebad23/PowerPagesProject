@@ -1,8 +1,9 @@
 <powerpagecomponent powerpagecomponentid="281090ee-e557-3554-cf9e-5793d14615ab">
   <content>{
+  "filecontent": null,
   "type": 756150000,
   "display_name": "Site name",
-  "value": "Company name",
+  "value": "Guru Group",
   "copy": "undefined"
 }</content>
   <iscustomizable>1</iscustomizable>
